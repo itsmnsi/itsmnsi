@@ -81,7 +81,7 @@
 <a href="https://www.linkedin.com/in/itsmnsi0204/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="pmanasi02@gmail.com" target="_blank">
+ <a href="mailto:pmanasi02@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
 </a>
 
