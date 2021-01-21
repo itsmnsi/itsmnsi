@@ -29,6 +29,12 @@
       </a>
       <br>Java
     </td>
+   <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25" alt="python" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25" alt="html" />
