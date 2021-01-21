@@ -10,7 +10,7 @@ I’m currently pursuing undergradution in Computer Engineering.
 
 <br />
 
-> ### Tools and Languages Known: 
+### Tools and Languages Known: 
 
 <table>
   <tr>
