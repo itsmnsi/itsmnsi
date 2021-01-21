@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing undergradution in Computer Engineering.
-- 🌱 I’m interested in web development.
+I’m currently pursuing undergradution in Computer Engineering.
+ I’m interested in web development.
 
 <br />
 
