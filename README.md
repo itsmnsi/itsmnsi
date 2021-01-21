@@ -1,16 +1,13 @@
-### Hey there, I am Manasi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+> ## Hey there, I'm Manasi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**itsmnsi/itsmnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I’m currently pursuing undergradution in Computer Engineering.
- I’m interested in web development.
+- 🔭 I’m currently pursuing undergraduation in Computer Engineering.
+- ⚡ I'm interested in Web Development.
+- ❤️ Learning and Exploring New Things...!!!
 
 <br />
 
-### Tools and Languages Known: 
+> ### Tools and Languages Known: 
 
 <table>
   <tr>
@@ -56,13 +53,6 @@ I’m currently pursuing undergradution in Computer Engineering.
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="25" height="25" alt="React" />
-      </a>
-      <br>React
-    </td>
-    
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -70,30 +60,6 @@ I’m currently pursuing undergradution in Computer Engineering.
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Docker" />
       </a>
       <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25" alt="Kubernetes" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="25" height="25" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
- <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
- <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="25" height="25" alt="oracle" />
-      </a>
-      <br>Oracle
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -107,5 +73,21 @@ I’m currently pursuing undergradution in Computer Engineering.
 
 <br />
 
-<div>
+> ### Connect with me at: 
 
+<a href="https://github.com/itsmnsi/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/itsmnsi0204/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+ <a href="pmanasi02@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
+</a>
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/itsmnsi0204/
+[github]: https://github.com/itsmnsi/
+[mail]: pmanasi02@gmail.com
