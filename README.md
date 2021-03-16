@@ -25,9 +25,13 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/itsmnsi0204/
-[github]: https://github.com/itsmnsi/
-[mail]: pmanasi02@gmail.com
+### Talk with me, I am awesome:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Hackerrank.svg" />][hackerrank]
+
 
 <br />
 <br />
@@ -45,3 +49,9 @@
 <img align="left" alt="Manasi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmnsi" />
 
 </details>
+
+[linkedin]: https://linkedin.com/in/itsmnsi0204
+[gmail]: mailto:pmanasi02@gmail.com
+[github]: https://www.github.com/itsmnsi
+[instagram]: https://www.instagram.com/mnsi021999
+[hackerrank]: https://www.hackerrank.com/pmanasi02
