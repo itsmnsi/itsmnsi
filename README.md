@@ -1,6 +1,8 @@
  
 > ## Hey there, I'm Manasi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align="right" alt="GIF" src="https://github.com/itsmnsi/itsmnsi/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently pursuing undergraduation in Computer Engineering.
 - ⚡ I'm interested in Web Development.
 - ❤️ Learning and Exploring New Things...!!!
