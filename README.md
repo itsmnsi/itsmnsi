@@ -7,89 +7,24 @@
 
 <br />
 
-> ### Tools and Languages Known: 
+### Languages and Tools:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25" height="25" alt="C#" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="25" height="25" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25" alt="python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25" alt="html" />
-      </a>
-      <br>HTML5
-    </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25" alt="css" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="25" height="25" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-   <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="25" height="25" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25" alt="Docker" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" width="25" height="25" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-   
-  </tr>
-</table>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
+[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
+[<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
-<br />
-
-> ### Connect with me at: 
-
-<a href="https://github.com/itsmnsi/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/itsmnsi0204/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:pmanasi02@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=cc0000 alt=gmail style="margin-bottom: 5px;" />
-</a>
 
 <br />
 <br />
