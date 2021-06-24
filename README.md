@@ -33,6 +33,7 @@
 [<img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
 
 <br />
 <br />
@@ -56,3 +57,4 @@
 [github]: https://www.github.com/itsmnsi
 [instagram]: https://www.instagram.com/mnsi021999
 [hackerrank]: https://www.hackerrank.com/pmanasi02
+[geeksforgeeks]: https://auth.geeksforgeeks.org/user/pmanasi02/profile
