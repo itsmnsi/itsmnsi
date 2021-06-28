@@ -1,5 +1,6 @@
  
 > ## Hey there, I'm Manasi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+> ![Manasi Patil](https://user-images.githubusercontent.com/36513491/123604435-76454d00-d818-11eb-951d-9f9a5b615a70.png)
 
 <img align="right" alt="GIF" src="https://github.com/itsmnsi/itsmnsi/blob/main/code.gif?raw=true" width="500" height="320" />
 
