@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/itsmnsi/itsmnsi/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m completed Computer Engineering.
+- 💻 Computer Engineering.
 - ⚡ I'm interested in Web Development.
 - ❤️ Learning and Exploring New Things...!!!
 
