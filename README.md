@@ -35,6 +35,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Salesforce" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />][salesforce]
 
 <br />
 <br />
@@ -59,3 +60,4 @@
 [instagram]: https://www.instagram.com/mnsi021999
 [hackerrank]: https://www.hackerrank.com/pmanasi02
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/pmanasi02/profile
+[salesforce]: https://trailblazer.me/id/itsmnsi0204
