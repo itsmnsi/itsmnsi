@@ -7,7 +7,6 @@
 - 💻 Computer Engineering.
 - ⚡ I'm interested in Web Development.
 - ❤️ Learning and Exploring New Things...!!!
-
 <br />
 
 ### Languages and Tools:
