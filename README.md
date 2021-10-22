@@ -56,7 +56,7 @@
 [linkedin]: https://linkedin.com/in/itsmnsi0204
 [gmail]: mailto:pmanasi02@gmail.com
 [github]: https://www.github.com/itsmnsi
-[instagram]: https://www.instagram.com/mnsi021999
+[instagram]: https://www.instagram.com/itsmnsi02
 [hackerrank]: https://www.hackerrank.com/pmanasi02
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/pmanasi02/profile
 [salesforce]: https://trailblazer.me/id/itsmnsi0204
