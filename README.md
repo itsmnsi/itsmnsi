@@ -35,6 +35,7 @@
 [<img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
 [<img align="left" alt="Salesforce" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/salesforce.svg" />][salesforce]
+[<img align="left" alt="Salesforce" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 <br />
 <br />
@@ -60,3 +61,4 @@
 [hackerrank]: https://www.hackerrank.com/pmanasi02
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/pmanasi02/profile
 [salesforce]: https://trailblazer.me/id/itsmnsi0204
+[codepen]: https://codepen.io/itsmnsi
