@@ -2,7 +2,7 @@
 > ## Hey there, I'm Manasi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 > ![Manasi](https://user-images.githubusercontent.com/36513491/123604908-ebb11d80-d818-11eb-8f1f-af17427397f4.png)
 
-<img align="right" alt="GIF" src="https://github.com/itsmnsi/itsmnsi/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/itsmnsi/itsmnsi/blob/main/code.gif?raw=true" width="450" height="320" />
 
 - 💻 Computer Engineering.
 - ⚡ I'm interested in Web Development.
